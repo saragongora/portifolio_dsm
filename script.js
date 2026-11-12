@@ -63,11 +63,11 @@ const projectsData = {
     },
     2: {
         eyebrow: "projeto pessoal",
-        title: "Anbie's World",
-        description: "Projeto pessoal criado como presente de aniversário para minha irmã mais nova. O site consiste nos jogos preferidos da minha irmã e temático com suas coisas favoritas.",
-        techs: ["JavaScript", "HTML", "CSS"],
-        github: "https://github.com/saragongora/anbies-world",
-        live: "https://anbies-world.vercel.app/",
+        title: "Kanbanly",
+        description:  "Site para gerenciamento de atividades pessoais em formato kanban, com organização por prioridade, categorias e data.",
+        techs: ["JavaScript", "TypeScript", "HTML"],
+        github: "https://github.com/saragongora/kanbanly",
+        live: "https://saragongora-kanbanly.vercel.app/",
         images: [
             "img/projeto2-1.png",
             "img/projeto2-2.png"
@@ -75,11 +75,11 @@ const projectsData = {
     },
     3: {
         eyebrow: "projeto pessoal",
-        title: "Dominate Tour",
-        description: "Projeto focado em design e criatividade, com o objetivo de ser uma contagem regressiva para o show da banda Stray Kids que aconteceu no Brasil em 2025.",
-        techs: ["HTML", "CSS"],
-        github: "https://github.com/saragongora/dominATE_site",
-        live: "https://dominate-tour-brasil-git-main-saragongoras-projects.vercel.app/",
+        title: "WikiWorld",
+        description: "Projeto com foco em ensinar geografia de forma divertida e gameficada. Com sistema de evolução por XP, mapas iterativos e design moderno, WikiWorld é uma enciclopédia em desenvolvimento.",
+        techs: ["TypeScript", "HTML"],
+        github: "https://github.com/saragongora/wikiworld",
+        live: "https://wikiworld-xi.vercel.app",
         images: [
             "img/projeto3-1.png",
             "img/projeto3-2.png",
